@@ -16,7 +16,7 @@
   <p align="left">
     <img height=230 src="https://github-readme-stats.vercel.app/api/top-langs?username=eneshtyrgl&langs_count=5&theme=catppuccin_mocha"  />
     <img height=230 src="https://github-readme-streak-stats.herokuapp.com/?user=eneshtyrgl&theme=catppuccin_mocha" />
-    <img width=460 src="https://github-readme-stats.vercel.app/api?username=eneshtyrgl&theme=catppuccin_mocha"  />
+    <img width=450 src="https://github-readme-stats.vercel.app/api?username=eneshtyrgl&theme=catppuccin_mocha"  />
   </p>
 </details>
 
